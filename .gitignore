@@ -1,0 +1,17 @@
+
+build
+.DS_Store
+*.bbl
+*.blg
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*~
+*.aux
+*.synctex.gz
+*.tcl
+*.cmake
+*CMakeCache.txt
+*Makefile
+*CMakeFiles
